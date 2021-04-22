@@ -2,4 +2,4 @@
 # TicTacToe
 small game created using html css and javascript
 
-file:///C:/Prabh_docs/tictactoe/tictactoe.html
+ 
